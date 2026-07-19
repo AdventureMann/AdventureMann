@@ -1,44 +1,52 @@
-## Hi there 👋
+## Welcome 👋
 
 I'm Andrea, a student-programmer based in Italy 🇮🇹.<br>
-🧊 I mostly work on 3D software such as games and 3D modelling software.<br>
-🚀 I also contribute to open-source projects sponsored by LabDig3A Academy Association.<br>
-<br><br>
-I started this profile in highschool when we learnt web development using the Angular framework 🅰️.<br>
-Now I'll be uploading some personal projects, research work and experiments.<br>
+I started this profile in highschool when we learnt web development using the Angular framework 🅰️.
 
-<hr>
+🌱 I'm currently learning game development and 3D modelling.
+
+🔭 I'm currently working on [ArcheoBrowser](https://codeberg.org/AdventureMann/ArcheoBrowser.git) and [TempleTrails](https://codeberg.org/AdventureMann/TempleTrails).
+
+---
 
 ## Tools & Tech 🧰
-<ul>
-  <li>Blender</li>
-  <li>Unity, Unreal Engine, Godot</li>
-  <li>Java and C#</li>
-</ul>
+* Java and C#
+* Unity, Unreal Engine, Godot
+* Blender
 
-<hr>
+---
 
-## About me 🧍
-<ul>
-  <li>
-    👾 I like videogames
-  </li>
-  <li>
-    🔎 I work on academic projects
-  </li>
-  <li>
-    📖 I like reading books about history and archaeology
-  </li>
-</ul>
+## 📫 How to reach me
+* [Linkedin](https://www.linkedin.com/in/andrea-favullo-68797a21b)
+* favullo.andrea.dennis@gmail.com
+
+---
+
+# All my noteworthy projects 🌟
+Interesting projects you should check out!
+
+## Side Projects ⭐
+* [ArcheoBrowser](https://codeberg.org/AdventureMann/ArcheoBrowser.git) - A WIP Vue.js webapp
+* [TempleTrails](https://codeberg.org/AdventureMann/TempleTrails) - A WIP Minecraft 1.21.11 Mod
+
+## Highschool Projects ⭐
+* [No Train No Rail](https://github.com/AdventureMann/Progetto_Finale_Treni_AF-LF) - MEAN webstack
+
+## ITS Projects ⭐
+* [DroneVR](https://github.com/AdventureMann/DroneVR) - Unity
+* [EscapeRoomVR](https://github.com/AdventureMann/EscapeRoomVR) - Unity + FMOD
+* [UFS12_SpaceHotel](https://github.com/AdventureMann/UFS12_SpaceHotel) - Unreal Engine 4
+* [5dic_SimulazioneEsame](https://github.com/AdventureMann/5dic_SimulazioneEsame) - Unity
+* [UFS10_ProgettoMR](https://github.com/AdventureMann/UFS10_ProgettoMR) - Unity
+* [UFS11_SaloneVR](https://github.com/AdventureMann/UFS11_SaloneVR) - Unity + FMOD
+* [UFS04_MuseoMinimalismo](https://github.com/AdventureMann/UFS04_MuseoMinimalismo) - Unreal Engine 4
+* [PW01 - LabSIF400](https://github.com/AdventureMann/PW01_LabSIF400) - Unity + Spatial platform
+
 <!--
-who are you
-what are you currently working on
-what tools do you use
-how to reach you
--->
-
-<!--
-**Andrea-Favullo/Andrea-Favullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* who are you
+* what are you currently working on
+* what tools do you use
+* how to reach you
 
 Here are some ideas to get you started:
 
